@@ -14,9 +14,9 @@
 
 <br>
 
-<!-- <p align="center">
-  <img alt="projeto Finans" src="./img/Finans-logo.PNG" width="100%">
-</p> -->
+<p align="center">
+  <img alt="projeto Finans" src="./imagens/Chale-logo.PNG" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
@@ -27,6 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Chalé Hotel é uma página criada com o inttuito com  .
+Chalé Hotel é uma página criada com o inttuito de praticar os conceitos básicos de HTML e CSS .
 
-<!-- - [Visite o projeto online](https://danrodriguezdev.github.io/Finans/) -->
+- [Visite o projeto online](https://danrodriguezdev.github.io/Chale-Hotel/)
